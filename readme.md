@@ -3,8 +3,6 @@
 ### i am not a pro
 <img src="https://github.com/baicaitomato/baicaitomato/blob/main/to-the-very-end-with-you.svg" />
 <details>
-  <summary>please do not make github conflict</summary>
-  - 与心爱的你行至世界尽头
+  <summary>i do not hate university of toronto</summary>
+  no csc311 not talking to you
 </details>
-
-- 与心爱的你行至世界尽头
