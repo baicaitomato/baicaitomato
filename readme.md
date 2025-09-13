@@ -4,5 +4,5 @@
 <img src="https://github.com/baicaitomato/baicaitomato/blob/main/to-the-very-end-with-you.svg" />
 <details>
   <summary>no time to make mods</summary>
-  https://steamcommunity.com/id/baicaiIRISFM/myworkshopfiles/
+  
 </details>
